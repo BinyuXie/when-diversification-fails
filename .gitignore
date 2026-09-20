@@ -1,0 +1,13 @@
+.DS_Store
+._*
+.env*
+.pycache/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.matplotlib/
+*.swp
+*~
+data/raw/
+LOCAL_INTERVIEW_GUIDE_CN.md

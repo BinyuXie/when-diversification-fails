@@ -1,0 +1,10 @@
+episode,portfolio,start,end,months,cumulative_return
+2008-09 financial crisis,Traditional 60/40,2008-09-30,2009-03-31,7,-0.20078072828753435
+2008-09 financial crisis,50/50 Equity-Matched Control,2008-09-30,2009-03-31,7,-0.1546572703264819
+2008-09 financial crisis,Static Multi-Asset,2008-09-30,2009-03-31,7,-0.16031086940785755
+2020 pandemic sell-off,Traditional 60/40,2020-02-29,2020-03-31,2,-0.09442560273315359
+2020 pandemic sell-off,50/50 Equity-Matched Control,2020-02-29,2020-03-31,2,-0.06820360808062564
+2020 pandemic sell-off,Static Multi-Asset,2020-02-29,2020-03-31,2,-0.07903260132394574
+2022 inflation and tightening,Traditional 60/40,2022-01-31,2022-12-31,12,-0.16685135277716467
+2022 inflation and tightening,50/50 Equity-Matched Control,2022-01-31,2022-12-31,12,-0.16380348344785745
+2022 inflation and tightening,Static Multi-Asset,2022-01-31,2022-12-31,12,-0.13402603716672135
