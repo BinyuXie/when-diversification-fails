@@ -144,7 +144,6 @@ The notebook writes the two summary tables to `outputs/` and the four charts to 
 ## Disclaimer
 
 This project is for educational and portfolio-demonstration purposes only. It does not constitute investment advice, and past performance does not predict future results.
-
 ## Related project
 
 [`uk-charity-fund-due-diligence`](https://github.com/BinyuXie/uk-charity-fund-due-diligence) applies a client-led suitability screen and evidence-linked scorecard to three UK charity multi-asset funds.
